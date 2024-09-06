@@ -6,7 +6,7 @@ Introduction
 
 Snakemake is a workflow definition language based on Python (that is not by me).  There is some excellent documentation [here](https://snakemake.readthedocs.io/en/stable/) already.
 
-This repository is an example that I created to accompany a presentation I will give on July 14, 2018 at the [Tokyo Linux User Group](https://tlug.jp/).  These slides can be found in the slides/ subdirectory in PDF format.
+This repository is an example that I created to accompany a presentation I will gave on 14 July 2018 at the [Tokyo Linux User Group](https://tlug.jp/).  A video of this talk can be seen on [YouTube](https://www.youtube.com/watch?v=Vq_v_C6HE84).  These slides can be found in the slides/ subdirectory in PDF format.
 
 
 Requirements
